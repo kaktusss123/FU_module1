@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FU_module1</string>
+    <string name="extended_menu_chkbox">Расширенное меню</string>
+    <string name="menu_add">add</string>
+    <string name="menu_edit">edit</string>
+    <string name="menu_delete">delete</string>
+    <string name="menu_copy">copy</string>
+    <string name="menu_paste">paste</string>
+    <string name="menu_exit">exit</string>
 </resources>
