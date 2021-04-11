@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FU_module1</string>
+    <string name="app_name">Комарницкий</string>
+    <string name="hello_world">Приветствую, мир!</string>
+    <string name="set_in_java">Set in Java!</string>
 </resources>
